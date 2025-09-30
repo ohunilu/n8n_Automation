@@ -102,7 +102,7 @@ This workflow automates the process by:
 ---
 
 ## 🎥 Demo Video  
-[[Insert Loom video link – walk-through from form submission → email notification]  ](https://www.loom.com/share/982b3d443f4349739c99f85ccde9a466?sid=8826bca0-e28b-4ba7-86c0-acdc6f749e4b)
+[[Watch Video]  ](https://www.loom.com/share/982b3d443f4349739c99f85ccde9a466?sid=8826bca0-e28b-4ba7-86c0-acdc6f749e4b)
 
 ---
 
