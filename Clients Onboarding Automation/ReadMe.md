@@ -19,7 +19,8 @@ This documentation is designed for **trainees, collaborators, and potential clie
 **Operations**
 
 ## 🖼️ Image/Thumbnail  
-[Insert screenshot of the n8n workflow dashboard showing Google Sheets Trigger, Asana, Google Drive, and Gmail nodes]
+![Client Onboarding Workflow](./Clients_Onboarding_workflow.png)
+
 
 ---
 
